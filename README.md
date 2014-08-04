@@ -1,14 +1,17 @@
 String Encode
 ==========================
 
-Version 0.1.1
+Version 0.1.2
 
 String Encode is a simple PHP wrapper package to facilitate the encoding of strings in different charsets.
+
+This is a fork of paquettg/string-encoder that supports PHP 5.3.
+The original author has expressed his unwillingness to merge the changes necessary to make his package compatible with PHP 5.3. I created this fork to fix that.
 
 Install
 -------
 
-This package can be found on [packagist](https://packagist.org/packages/paquettg/stringencode) and is best loaded using [composer](http://getcomposer.org/). It does require php 5.4 or higher, so keep that in consideration. 
+This package can be found on [packagist](https://packagist.org/packages/brjpeters/string-encode) and is best loaded using [composer](http://getcomposer.org/).
 
 Usage
 -----
